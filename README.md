@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Charlie BC</h1>
-<h3 align="center">I am a third-year UCLA student interested in the intersection between Economics and AI.</h3>
+<h3 align="left">I am a third-year UCLA student interested in the intersection between Economics and AI.</h3>
 
 
  🔭 I'm currently working on **A Web3 Payment App**
