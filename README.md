@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Charlie BC</h1>
-<h3 align="center">I am a 3rd year UCLA student passionate about the intersection between Finance and Artificial Intelligence.</h3>
+<h1 align="center">Hi, I'm Charlie</h1>
+<h3 align="center">I am a third-year UCLA student interested in the intersection between Economics and AI.</h3>
 
 
  🔭 I'm currently working on **A Web3 Payment App**
 
-🌱 I'm currently learning **Solidity, Machine Learning, and Advanced Financial Modeling**
+🌱 I'm currently learning **Solidity and scikit-learn**
 
 👯 I'm looking to collaborate on **Financial or ML-related projects**
 
