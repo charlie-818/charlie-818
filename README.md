@@ -2,11 +2,11 @@
 <h3 align="left">I am a third-year UCLA student interested in the intersection between Economics and AI.</h3>
 
 
- 🔭 I'm currently working on **a Web3 payment app**
+ 🔭 I'm currently working on **a Web3 real-estate app**
 
-🌱 I'm currently learning **solidity and scikit-learn**
+🌱 I'm currently learning **solidity and sklearn**
 
-👯 I'm looking to collaborate on **financial or ML-related projects**
+👯 I'm looking to collaborate on **financial engineeting or ML-related projects**
 
 
 <h3 align="left">Connect with me:</h3>
