@@ -98,9 +98,6 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 </div>
 
----
-
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=charlie-818&color=blueviolet&style=for-the-badge)
