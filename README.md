@@ -88,19 +88,6 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlie-818&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-818&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-
-</div>
-
----
-
 ## Connect & Explore
 
 <div align="center">
