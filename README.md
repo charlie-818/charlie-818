@@ -88,17 +88,6 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 ---
 
-## Key Achievements
-
-- ✅ Built multi-chain DeFi protocol supporting 5+ blockchain networks
-- ✅ Implemented MEV-protected trading infrastructure using CoW Protocol
-- ✅ Developed AI-powered analytics platform with real-time market intelligence
-- ✅ Created institutional-grade dashboard with comprehensive risk management
-- ✅ Integrated WalletConnect v2 with SIWE authentication standards
-- ✅ Built secure, non-custodial architecture for financial applications
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -124,15 +113,6 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 ---
 
-## Current Focus
-
-- Building secure DeFi infrastructure for institutional adoption
-- Developing AI-powered market analysis and trading tools
-- Expanding multi-chain support and cross-chain interoperability
-- Creating advanced analytics and risk management solutions
-- Exploring new frontiers in real-world asset tokenization
-
----
 
 <div align="center">
 
