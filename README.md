@@ -56,9 +56,9 @@ I'm a passionate full-stack developer specializing in **decentralized finance (D
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🔍 [Vaulto Search](https://github.com/charlie-818/vaulto-dev)
+### [Vaulto Search](https://github.com/charlie-818/vaulto-dev)
 **AI-Powered Market Intelligence & Analytics Platform**
 
 Advanced analytics dashboard providing real-time market insights, comprehensive data analysis, and intelligent investment guidance. Features Google Drive integration, WalletConnect authentication, and real-time synchronization.
@@ -67,7 +67,7 @@ Advanced analytics dashboard providing real-time market insights, comprehensive 
 
 ---
 
-### 🔄 [Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)
+### [Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)
 **Permissionless DeFi Protocol for Real World Asset (RWA) Trading**
 
 Decentralized exchange protocol enabling seamless swapping of tokenized Real World Assets across multiple EVM-compatible blockchains. Built on CoW Swap's MEV-protected batch auction engine for optimal execution.
@@ -78,7 +78,7 @@ Decentralized exchange protocol enabling seamless swapping of tokenized Real Wor
 
 ---
 
-### 📊 [Vaulto Holdings](https://github.com/charlie-818/vaulto-holdings)
+### [Vaulto Holdings](https://github.com/charlie-818/vaulto-holdings)
 **Professional Ethereum Vault Dashboard & Analytics Platform**
 
 Institutional-grade solutions for managing digital assets with real-time leverage, exposure, and performance metrics. Features comprehensive risk management tools and professional data visualization.
@@ -89,7 +89,7 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 ---
 
-## 🌟 Key Achievements
+## Key Achievements
 
 - ✅ Built multi-chain DeFi protocol supporting 5+ blockchain networks
 - ✅ Implemented MEV-protected trading infrastructure using CoW Protocol
@@ -100,7 +100,7 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -113,7 +113,7 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 ---
 
-## 🔗 Connect & Explore
+## Connect & Explore
 
 <div align="center">
 
@@ -125,13 +125,13 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 ---
 
-## 💡 Current Focus
+## Current Focus
 
-- 🔐 Building secure DeFi infrastructure for institutional adoption
-- 🤖 Developing AI-powered market analysis and trading tools
-- 🌐 Expanding multi-chain support and cross-chain interoperability
-- 📊 Creating advanced analytics and risk management solutions
-- 🚀 Exploring new frontiers in real-world asset tokenization
+- Building secure DeFi infrastructure for institutional adoption
+- Developing AI-powered market analysis and trading tools
+- Expanding multi-chain support and cross-chain interoperability
+- Creating advanced analytics and risk management solutions
+- Exploring new frontiers in real-world asset tokenization
 
 ---
 
