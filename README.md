@@ -15,7 +15,7 @@ Building the future of decentralized finance and intelligent financial infrastru
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate full-stack developer specializing in **decentralized finance (DeFi)**, **Web3 technologies**, and **AI-powered financial infrastructure**. I build secure, scalable platforms that bridge traditional finance with blockchain technology, focusing on real-world asset tokenization and intelligent trading systems.
 
