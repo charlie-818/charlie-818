@@ -1,6 +1,6 @@
 <div align="left">
 
-# Charlie Bicker Caarten
+# Charlie BC
 
 </div>
 
