@@ -76,23 +76,11 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 **Live:** [holdings.vaulto.ai](https://holdings.vaulto.ai)
 
-<div align="center">
-
 ## Connect & Explore
-
-</div>
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vaulto.ai-FF6B6B?style=for-the-badge)](https://www.vaulto.ai)
 [![GitHub](https://img.shields.io/badge/GitHub-charlie--818-181717?style=for-the-badge&logo=github)](https://github.com/charlie-818)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@vaulto.ai)
 
-</div>
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=charlie-818&color=blueviolet&style=for-the-badge)
-
-</div>
 
