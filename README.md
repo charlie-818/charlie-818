@@ -88,7 +88,7 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 ---
 
-<div align="center">## Connect & Explore
+<div align="center"> ##Connect & Explore
 
 <div align="center">
 
