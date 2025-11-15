@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Charlie
+# Hi, I'm Charlie
 
 **Full-Stack Developer | DeFi & Web3 Enthusiast | AI & Blockchain Innovator**
 
