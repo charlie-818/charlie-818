@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Hi, I'm Charlie
+# Charlie Bicker Caarten
 
 </div>
 
