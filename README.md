@@ -21,15 +21,15 @@ I'm a passionate full-stack developer specializing in **decentralized finance (D
 
 ### What I Do
 
-- 🔐 **DeFi Protocol Development** - Building secure, MEV-protected trading infrastructure
-- 🤖 **AI-Powered Analytics** - Creating intelligent market insights and investment tools
-- 🌐 **Multi-Chain Integration** - Developing cross-chain solutions for Ethereum, Arbitrum, Optimism, Base, and Polygon
-- 💼 **Institutional Tools** - Building professional-grade dashboards and portfolio management systems
-- 🔒 **Security-First Architecture** - Implementing robust authentication and compliance systems
+- **DeFi Protocol Development** - Building secure, MEV-protected trading infrastructure
+- **AI-Powered Analytics** - Creating intelligent market insights and investment tools
+- **Multi-Chain Integration** - Developing cross-chain solutions for Ethereum, Arbitrum, Optimism, Base, and Polygon
+- **Institutional Tools** - Building professional-grade dashboards and portfolio management systems
+- **Security-First Architecture** - Implementing robust authentication and compliance systems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
