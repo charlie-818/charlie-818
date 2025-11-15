@@ -24,7 +24,7 @@ I'm a passionate full-stack developer specializing in **decentralized finance (D
 - **Institutional Tools** - Building professional-grade dashboards and portfolio management systems
 - **Security-First Architecture** - Implementing robust authentication and compliance systems
 
-<hr style="border: none; border-top: 0.5px solid #e1e4e8;">
+<hr style="border: none; border-top: 0.1px solid #e1e4e8;">
 
 ## Tech Stack
 
