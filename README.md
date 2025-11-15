@@ -7,7 +7,7 @@
 Building the future of decentralized finance and intelligent financial infrastructure
 
 [![GitHub](https://img.shields.io/badge/GitHub-charlie--818-181717?style=for-the-badge&logo=github)](https://github.com/charlie-818)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlie-818)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/charlie-bicker-caarten-43937a1b2)
 [![Website](https://img.shields.io/badge/Website-Vaulto.ai-000000?style=for-the-badge)](https://www.vaulto.ai)
 [![Email](https://img.shields.io/badge/Email-info@vaulto.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@vaulto.ai)
 
