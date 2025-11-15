@@ -85,7 +85,7 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 **Tech Stack:** React 18 • TypeScript • Recharts • CoinGecko API • Framer Motion
 
-**Live:** [vaulto-holdings.netlify.app](https://vaulto-holdings.netlify.app)
+**Live:** [vaulto-holdings.netlify.app](https://holdings.vaulto.ai)
 
 ---
 
