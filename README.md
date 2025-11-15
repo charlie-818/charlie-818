@@ -24,8 +24,6 @@ I'm a passionate full-stack developer specializing in **decentralized finance (D
 - **Institutional Tools** - Building professional-grade dashboards and portfolio management systems
 - **Security-First Architecture** - Implementing robust authentication and compliance systems
 
-<hr style="border: none; border-top: 0.1px solid #e1e4e8;">
-
 ## Tech Stack
 
 ### Frontend
@@ -51,8 +49,6 @@ I'm a passionate full-stack developer specializing in **decentralized finance (D
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<hr style="border: none; border-top: 1px solid #e1e4e8;">
-
 ## Featured Projects
 
 ### [Vaulto Search](https://github.com/charlie-818/vaulto-dev)
@@ -61,8 +57,6 @@ I'm a passionate full-stack developer specializing in **decentralized finance (D
 Advanced analytics dashboard providing real-time market insights, comprehensive data analysis, and intelligent investment guidance. Features Google Drive integration, WalletConnect authentication, and real-time synchronization.
 
 **Tech Stack:** Next.js 16 • TypeScript • PostgreSQL • Drizzle ORM • WalletConnect v2
-
-<hr style="border: none; border-top: 1px solid #e1e4e8;">
 
 ### [Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)
 **Permissionless DeFi Protocol for Real World Asset (RWA) Trading**
@@ -73,8 +67,6 @@ Decentralized exchange protocol enabling seamless swapping of tokenized Real Wor
 
 **Live:** [app.vaulto.ai](https://app.vaulto.ai)
 
-<hr style="border: none; border-top: 1px solid #e1e4e8;">
-
 ### [Vaulto Holdings](https://github.com/charlie-818/vaulto-holdings)
 **Professional Ethereum Vault Dashboard & Analytics Platform**
 
@@ -83,8 +75,6 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 **Tech Stack:** React 18 • TypeScript • Recharts • CoinGecko API • Framer Motion
 
 **Live:** [holdings.vaulto.ai](https://holdings.vaulto.ai)
-
-<hr style="border: none; border-top: 1px solid #e1e4e8;">
 
 <div align="center">
 
