@@ -108,7 +108,6 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-818&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=charlie-818&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
@@ -133,25 +132,6 @@ Institutional-grade solutions for managing digital assets with real-time leverag
 - 🌐 Expanding multi-chain support and cross-chain interoperability
 - 📊 Creating advanced analytics and risk management solutions
 - 🚀 Exploring new frontiers in real-world asset tokenization
-
----
-
-## 📝 Recent Activity
-
-<!-- GitHub Activity Feed -->
-<!-- You can add a GitHub activity widget here -->
-
----
-
-<div align="center">
-
-**Building the future of decentralized finance, one commit at a time** 🚀
-
-*"Connecting Information, Assets, and Capital"*
-
-⭐ Star my repositories if you find them interesting!
-
-</div>
 
 ---
 
