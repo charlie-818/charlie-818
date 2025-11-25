@@ -78,35 +78,6 @@ Institutional-grade solutions for on and off ramping digital assets through venm
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Featured Projects
-
-### [Vaulto Search](https://github.com/charlie-818/vaulto-dev)
-**AI-Powered Market Intelligence & Analytics Platform**
-
-Advanced analytics dashboard providing real-time market insights, comprehensive data analysis, and intelligent investment guidance. Features Google Drive integration, WalletConnect authentication, and real-time synchronization.
-
-**Tech Stack:** Next.js 16 • TypeScript • PostgreSQL • Drizzle ORM • WalletConnect v2
-
-**Live:** [search.vaulto.ai](https://search.vaulto.ai)
-
-### [Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)
-**Permissionless DeFi Protocol for Real World Asset (RWA) Trading**
-
-Decentralized exchange protocol enabling seamless swapping of tokenized Real World Assets across multiple EVM-compatible blockchains. Built on CoW Swap's MEV-protected batch auction engine for optimal execution.
-
-**Tech Stack:** Next.js 14 • TypeScript • CoW Protocol • Wagmi • Viem • Multi-chain Support
-
-**Live:** [app.vaulto.ai](https://app.vaulto.ai)
-
-### [Vaulto Ramp](https://github.com/VaultoAI/vaulto-ramp)
-**Professional Ethereum Ramping Services**
-
-Institutional-grade solutions for on and off ramping digital assets through venmo
-
-**Tech Stack:** React 18 • TypeScript • Recharts • Etherscan API
-
-**Live:** [ramp.vaulto.ai](https://ramp.vaulto.ai)
-
 ## Connect & Explore
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vaulto.ai-FF6B6B?style=for-the-badge)](https://www.vaulto.ai)
