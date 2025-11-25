@@ -33,7 +33,7 @@ Advanced analytics dashboard providing real-time market insights, comprehensive 
 
 **Tech Stack:** Next.js 16 • TypeScript • PostgreSQL • Drizzle ORM • WalletConnect v2
 
-##**Live:** [search.vaulto.ai](https://search.vaulto.ai)
+**Live:** [search.vaulto.ai](https://search.vaulto.ai)
 
 ### [Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)
 **Permissionless DeFi Protocol for Real World Asset (RWA) Trading**
@@ -42,7 +42,7 @@ Decentralized exchange protocol enabling seamless swapping of tokenized Real Wor
 
 **Tech Stack:** Next.js 14 • TypeScript • CoW Protocol • Wagmi • Viem • Multi-chain Support
 
-##**Live:** [app.vaulto.ai](https://app.vaulto.ai)
+**Live:** [app.vaulto.ai](https://app.vaulto.ai)
 
 ### [Vaulto Ramp](https://github.com/VaultoAI/vaulto-ramp)
 **Professional Ethereum Ramping Services**
@@ -51,7 +51,7 @@ Institutional-grade solutions for on and off ramping digital assets through venm
 
 **Tech Stack:** React 18 • TypeScript • Recharts • Etherscan API
 
-##**Live:** [ramp.vaulto.ai](https://ramp.vaulto.ai)
+**Live:** [ramp.vaulto.ai](https://ramp.vaulto.ai)
 
 ## Tech Stack
 
