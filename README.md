@@ -24,6 +24,35 @@ I'm a passionate full-stack developer specializing in **decentralized finance (D
 - **Institutional Tools** - Building professional-grade dashboards and portfolio management systems
 - **Security-First Architecture** - Implementing robust authentication and compliance systems
 
+## Featured Projects
+
+### [Vaulto Search](https://github.com/charlie-818/vaulto-dev)
+**AI-Powered Market Intelligence & Analytics Platform**
+
+Advanced analytics dashboard providing real-time market insights, comprehensive data analysis, and intelligent investment guidance. Features Google Drive integration, WalletConnect authentication, and real-time synchronization.
+
+**Tech Stack:** Next.js 16 • TypeScript • PostgreSQL • Drizzle ORM • WalletConnect v2
+
+**Live:** [search.vaulto.ai](https://search.vaulto.ai)
+
+### [Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)
+**Permissionless DeFi Protocol for Real World Asset (RWA) Trading**
+
+Decentralized exchange protocol enabling seamless swapping of tokenized Real World Assets across multiple EVM-compatible blockchains. Built on CoW Swap's MEV-protected batch auction engine for optimal execution.
+
+**Tech Stack:** Next.js 14 • TypeScript • CoW Protocol • Wagmi • Viem • Multi-chain Support
+
+**Live:** [app.vaulto.ai](https://app.vaulto.ai)
+
+### [Vaulto Ramp](https://github.com/VaultoAI/vaulto-ramp)
+**Professional Ethereum Ramping Services**
+
+Institutional-grade solutions for on and off ramping digital assets through venmo
+
+**Tech Stack:** React 18 • TypeScript • Recharts • Etherscan API
+
+**Live:** [ramp.vaulto.ai](https://ramp.vaulto.ai)
+
 ## Tech Stack
 
 ### Frontend
