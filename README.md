@@ -1,6 +1,6 @@
 <div align="left">
 
-# Charlie BC
+# Charlie
 
 </div>
 
