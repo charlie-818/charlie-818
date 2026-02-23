@@ -44,6 +44,6 @@
 [![GitHub](https://img.shields.io/badge/-charlie--818-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/charlie-818)
 [![LinkedIn](https://img.shields.io/badge/-Charlie_Bicker_Caarten-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/charliebickercaarten)
 [![Portfolio](https://img.shields.io/badge/-Vaulto.ai-FF6B6B?style=flat-square)](https://www.vaulto.ai)
-[![Website](https://img.shields.io/badge/-info.vaulto.ai-000000?style=flat-square)](https://info.vaulto.ai)
+[![Website](https://img.shields.io/badge/-vaulto.ai-000000?style=flat-square)](https://vaulto.ai)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=charlie-818&color=blueviolet&style=flat-square)
