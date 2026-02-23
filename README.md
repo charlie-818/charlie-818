@@ -1,87 +1,41 @@
-<div align="left">
+# Hi, I'm Charlie 👋
 
-# Charlie
+🛠️ **Full-Stack Developer** | ⛓️ **DeFi & Web3** | 🤖 **AI-Powered Financial Infrastructure**
 
-</div>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Full-Stack Developer | DeFi & Web3 Enthusiast | AI & Blockchain Innovator**
+> Building secure, scalable platforms that bridge traditional finance with blockchain—real-world asset tokenization and intelligent trading systems.
 
-Building the future of decentralized finance and intelligent financial infrastructure
+## Current Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-charlie--818-181717?style=for-the-badge&logo=github)](https://github.com/charlie-818)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charliebickercaarten)
-[![Website](https://img.shields.io/badge/Website-Vaulto.ai-000000?style=for-the-badge)](https://info.vaulto.ai)
+- 🔍 **[Vaulto Search](https://github.com/charlie-818/vaulto-dev)** – AI-powered market intelligence & analytics; real-time insights, WalletConnect, Google Drive. [Live](https://search.vaulto.ai)
+- 🔄 **[Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)** – Permissionless DeFi for RWA trading; MEV-protected, multi-chain (Ethereum, Arbitrum, Optimism, Base, Polygon). [Live](https://app.vaulto.ai)
+- 📈 **[Vaulto Ramp](https://github.com/VaultoAI/vaulto-ramp)** – Institutional on/off ramp for digital assets (e.g. venmo). [Live](https://ramp.vaulto.ai)
 
-## About Me
+## GitHub Activity
 
-I'm a passionate full-stack developer specializing in **decentralized finance (DeFi)**, **Web3 technologies**, and **AI-powered financial infrastructure**. I build secure, scalable platforms that bridge traditional finance with blockchain technology, focusing on real-world asset tokenization and intelligent trading systems.
+![GitHub Contribution Graph](https://ghchart.rshah.org/charlie-818)
 
-### What I Do
+## What I'm Doing
 
-- **DeFi Protocol Development** - Building secure, MEV-protected trading infrastructure
-- **AI-Powered Analytics** - Creating intelligent market insights and investment tools
-- **Multi-Chain Integration** - Developing cross-chain solutions for Ethereum, Arbitrum, Optimism, Base, and Polygon
-- **Institutional Tools** - Building professional-grade dashboards and portfolio management systems
-- **Security-First Architecture** - Implementing robust authentication and compliance systems
+- **DeFi protocol development** – MEV-protected trading infrastructure
+- **AI-powered analytics** – Intelligent market insights and investment tools
+- **Multi-chain integration** – Cross-chain solutions across Ethereum, Arbitrum, Optimism, Base, Polygon
+- **Institutional tools** – Professional dashboards and portfolio management
+- **Security-first architecture** – Robust auth and compliance
 
-## Featured Projects
+## Connect
 
-### [Vaulto Search](https://github.com/charlie-818/vaulto-dev)
-**AI-Powered Market Intelligence & Analytics Platform**
+[![GitHub](https://img.shields.io/badge/-charlie--818-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/charlie-818)
+[![LinkedIn](https://img.shields.io/badge/-Charlie_Bicker_Caarten-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/charliebickercaarten)
+[![Portfolio](https://img.shields.io/badge/-Vaulto.ai-FF6B6B?style=flat-square)](https://www.vaulto.ai)
+[![Website](https://img.shields.io/badge/-info.vaulto.ai-000000?style=flat-square)](https://info.vaulto.ai)
 
-Advanced analytics dashboard providing real-time market insights, comprehensive data analysis, and intelligent investment guidance. Features Google Drive integration, WalletConnect authentication, and real-time synchronization.
-
-**Tech Stack:** Next.js 16 • TypeScript • PostgreSQL • Drizzle ORM • WalletConnect v2
-
-**Live:** [search.vaulto.ai](https://search.vaulto.ai)
-
-### [Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)
-**Permissionless DeFi Protocol for Real World Asset (RWA) Trading**
-
-Decentralized exchange protocol enabling seamless swapping of tokenized Real World Assets across multiple EVM-compatible blockchains. Built on CoW Swap's MEV-protected batch auction engine for optimal execution.
-
-**Tech Stack:** Next.js 14 • TypeScript • CoW Protocol • Wagmi • Viem • Multi-chain Support
-
-**Live:** [app.vaulto.ai](https://app.vaulto.ai)
-
-### [Vaulto Ramp](https://github.com/VaultoAI/vaulto-ramp)
-**Professional Ethereum Ramping Services**
-
-Institutional-grade solutions for on and off ramping digital assets through venmo
-
-**Tech Stack:** React 18 • TypeScript • Recharts • Etherscan API
-
-**Live:** [ramp.vaulto.ai](https://ramp.vaulto.ai)
-
-## Tech Stack
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white)
-
-### Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools & Services
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Connect & Explore
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Vaulto.ai-FF6B6B?style=for-the-badge)](https://www.vaulto.ai)
-[![GitHub](https://img.shields.io/badge/GitHub-charlie--818-181717?style=for-the-badge&logo=github)](https://github.com/charlie-818)
-
-![Profile Views](https://komarev.com/ghpvc/?username=charlie-818&color=blueviolet&style=for-the-badge)
-
+![Profile Views](https://komarev.com/ghpvc/?username=charlie-818&color=blueviolet&style=flat-square)
