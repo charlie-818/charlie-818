@@ -16,12 +16,12 @@
 ## Current Projects
 
 - 🔍 **[Vaulto Search](https://github.com/charlie-818/vaulto-dev)** – AI-powered market intelligence & analytics; real-time insights, WalletConnect, Google Drive. [Live](https://search.vaulto.ai)
-- 🔄 **[Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)** – Permissionless DeFi for RWA trading; MEV-protected, multi-chain (Ethereum, Arbitrum, Optimism, Base, Polygon). [Live](https://app.vaulto.ai)
+- 🔄 **[Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)** – Permissionless DeFi for RWA trading; MEV-protected, multi-chain. [Live](https://app.vaulto.ai)
 - 📈 **[Vaulto Ramp](https://github.com/VaultoAI/vaulto-ramp)** – Institutional on/off ramp for digital assets (e.g. venmo). [Live](https://ramp.vaulto.ai)
-- 🔌 **[Vaulto API](https://github.com/charlie-818/Vaulto-API)** – Full-stack API with usage-based and subscription billing.
+- 🔌 **[Vaulto API](https://github.com/charlie-818/Vaulto-API)** – Full-stack API with usage-based and subscription billing. [Live](https://api.vaulto.ai)
 - 🦞 **[OpenClaw](https://github.com/charlie-818/openclaw)** – Personal AI assistant; any OS, any platform—the lobster way.
 - 👓 **[Mentra-OpenClaw](https://github.com/charlie-818/Mentra-OpenClaw)** – Bridge connecting Mentra Even G1 glasses to the OpenClaw gateway.
-- 📊 **[visualizations](https://github.com/charlie-818/visualizations)** – Stock vs tokenized stock comparison visualizer for Vaulto.
+- 📊 **[visualizations](https://github.com/charlie-818/visualizations)** – Stock vs tokenized stock comparison visualizer for Vaulto. [Live](https://info.vaulto.dev)
 - 🪙 **[vltCoins](https://github.com/charlie-818/vltCoins)** – Ethereum stablecoin suite (vltUSD, vltUSDY, vltUSDe) with oracles and security.
 - 🤖 **[vaulto-platform](https://github.com/charlie-818/vaulto-platform)** – AI-powered stablecoin platform: mint, swap tokenized assets, investment guidance.
 - 📐 **[vaulto-model](https://github.com/charlie-818/vaulto-model)** – Financial model dashboard; React frontend, FastAPI backend.
