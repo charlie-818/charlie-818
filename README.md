@@ -20,6 +20,7 @@
 - 📈 **[Vaulto Ramp](https://github.com/VaultoAI/vaulto-ramp)** – Institutional on/off ramp for digital assets (e.g. venmo). [Live](https://ramp.vaulto.ai)
 - 🔌 **[Vaulto API](https://github.com/charlie-818/Vaulto-API)** – Full-stack API with usage-based and subscription billing. [Live](https://api.vaulto.ai)
 - 🦞 **[Mentra-OpenClaw](https://github.com/charlie-818/Mentra-OpenClaw)** – Bridge connecting Mentra Even G1 glasses to the OpenClaw gateway.
+- 📜 **[AI History MCP](https://github.com/charlie-818/ai-history-mcp)** – MCP server for logging and analyzing AI assistant usage across tools and sessions.
 - 📊 **[visualizations](https://github.com/charlie-818/visualizations)** – Stock vs tokenized stock comparison visualizer for Vaulto. [Live](https://info.vaulto.dev)
 - 🪙 **[vltCoins](https://github.com/charlie-818/vltCoins)** – Ethereum stablecoin suite (vltUSD, vltUSDY, vltUSDe) with oracles and security.
 - 🤖 **[vaulto-platform](https://github.com/charlie-818/vaulto-platform)** – AI-powered stablecoin platform: mint, swap tokenized assets, investment guidance.
