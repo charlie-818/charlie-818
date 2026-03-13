@@ -17,17 +17,17 @@
 ## Current Projects
 
 - ⚡ **[MoltPay](https://github.com/charlie-818/moltpay)** – Solana payment SDK for AI agents; wallet management, SOL/SPL transfers, OpenClaw & LangChain integration.
-- 🔍 **[Vaulto Search](https://github.com/charlie-818/vaulto-dev)** – AI-powered market intelligence & analytics; real-time insights, WalletConnect, Google Drive. [Live](https://search.vaulto.ai)
-- 🔄 **[Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)** – Permissionless DeFi for RWA trading; MEV-protected, multi-chain. [Live](https://app.vaulto.ai)
-- 📈 **[Vaulto Ramp](https://github.com/VaultoAI/vaulto-ramp)** – Institutional on/off ramp for digital assets (e.g. venmo). [Live](https://ramp.vaulto.ai)
-- 🔌 **[Vaulto API](https://github.com/charlie-818/Vaulto-API)** – Full-stack API with usage-based and subscription billing. [Live](https://api.vaulto.ai)
+- 🔍 **[Crypto Sandbox Search](https://github.com/charlie-818/vaulto-dev)** – AI-powered market intelligence & analytics; real-time insights, WalletConnect, Google Drive. [Live](https://search.vaulto.ai)
+- 🔄 **[Tokenized Equity Swap](https://github.com/charlie-818/Vaulto-Swap)** – Permissionless DeFi for RWA trading; MEV-protected, multi-chain. [Live](https://app.vaulto.ai)
+- 📈 **[Crypto On/Off Ramp](https://github.com/VaultoAI/vaulto-ramp)** – Institutional fiat-to-crypto bridge for digital assets; Venmo integration. [Live](https://ramp.vaulto.ai)
+- 🔌 **[DeFi API Gateway](https://github.com/charlie-818/Vaulto-API)** – Full-stack API with usage-based and subscription billing. [Live](https://api.vaulto.ai)
 - 🦞 **[Mentra-OpenClaw](https://github.com/charlie-818/Mentra-OpenClaw)** – Bridge connecting Mentra Even G1 glasses to the OpenClaw gateway.
 - 📜 **[AI History MCP](https://github.com/charlie-818/ai-history-mcp)** – MCP server for logging and analyzing AI assistant usage across tools and sessions.
-- 📊 **[visualizations](https://github.com/charlie-818/visualizations)** – Stock vs tokenized stock comparison visualizer for Vaulto. [Live](https://info.vaulto.dev)
-- 🪙 **[vltCoins](https://github.com/charlie-818/vltCoins)** – Ethereum stablecoin suite (vltUSD, vltUSDY, vltUSDe) with oracles and security.
-- 🤖 **[vaulto-platform](https://github.com/charlie-818/vaulto-platform)** – AI-powered stablecoin platform: mint, swap tokenized assets, investment guidance.
-- 📐 **[vaulto-model](https://github.com/charlie-818/vaulto-model)** – Financial model dashboard; React frontend, FastAPI backend.
-- 🔗 **[venmo-crypto-connector](https://github.com/charlie-818/venmo-crypto-connector)** – Rails engine for Venmo crypto: educational content, wallet integration, guided onboarding.
+- 📊 **[Stock Tokenization Visualizer](https://github.com/charlie-818/visualizations)** – Interactive comparison of traditional stocks vs tokenized equivalents. [Live](https://info.vaulto.dev)
+- 🪙 **[EVM Stablecoin Suite](https://github.com/charlie-818/vltCoins)** – Ethereum stablecoin contracts (USD-backed, yield-bearing) with oracles and security.
+- 🤖 **[AI Stablecoin Platform](https://github.com/charlie-818/vaulto-platform)** – Mint, swap tokenized assets with AI-powered investment guidance.
+- 📐 **[Financial Model Dashboard](https://github.com/charlie-818/vaulto-model)** – Interactive financial modeling; React frontend, FastAPI backend.
+- 🔗 **[Venmo Crypto Connector](https://github.com/charlie-818/venmo-crypto-connector)** – Rails engine for Venmo-to-crypto: wallet integration, guided onboarding.
 
 ## GitHub Activity
 
