@@ -7,6 +7,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -15,6 +16,7 @@
 
 ## Current Projects
 
+- ⚡ **[MoltPay](https://github.com/charlie-818/moltpay)** – Solana payment SDK for AI agents; wallet management, SOL/SPL transfers, OpenClaw & LangChain integration.
 - 🔍 **[Vaulto Search](https://github.com/charlie-818/vaulto-dev)** – AI-powered market intelligence & analytics; real-time insights, WalletConnect, Google Drive. [Live](https://search.vaulto.ai)
 - 🔄 **[Vaulto Swap](https://github.com/charlie-818/Vaulto-Swap)** – Permissionless DeFi for RWA trading; MEV-protected, multi-chain. [Live](https://app.vaulto.ai)
 - 📈 **[Vaulto Ramp](https://github.com/VaultoAI/vaulto-ramp)** – Institutional on/off ramp for digital assets (e.g. venmo). [Live](https://ramp.vaulto.ai)
