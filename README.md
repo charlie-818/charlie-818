@@ -16,7 +16,7 @@
 
 ## Current Projects
 
-- ⚡ **[MoltPay](https://github.com/charlie-818/moltpay)** – Solana payment SDK for AI agents; wallet management, SOL/SPL transfers, OpenClaw & LangChain integration.
+- ⚡ **[MoltPay](https://github.com/charlie-818/moltpay)** – Solana payment SDK for AI agents; wallet management, SOL/SPL transfers, OpenClaw & LangChain integration. [Live](https://usemoltpay.xyz)
 - 🔍 **[Crypto Sandbox Search](https://github.com/charlie-818/vaulto-dev)** – AI-powered market intelligence & analytics; real-time insights, WalletConnect, Google Drive. [Live](https://search.vaulto.ai)
 - 🔄 **[Tokenized Equity Swap](https://github.com/charlie-818/Vaulto-Swap)** – Permissionless DeFi for RWA trading; MEV-protected, multi-chain. [Live](https://app.vaulto.ai)
 - 📈 **[Crypto On/Off Ramp](https://github.com/VaultoAI/vaulto-ramp)** – Institutional fiat-to-crypto bridge for digital assets; Venmo integration. [Live](https://ramp.vaulto.ai)
